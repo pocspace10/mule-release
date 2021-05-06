@@ -71,13 +71,13 @@
 			empty if not used.</passphrase> </server> -->
 		<server>
 			<id>MuleExchangeRepository</id>
-			<username>mt6-broncos-0405</username>
-			<password>Logger@123</password>
+			<username>pocspace10</username>
+			<password>Ntz6Px7T9L.dEv4</password>
 		</server>
 		<server>
 			<id>jfrog-cloud</id>
-			<username>mt6tower1@gmail.com</username>
-			<password>CBV$JW7VtAjgVPX</password>
+			<username>pocspace10@gmail.com</username>
+			<password>!bh4y4:fEWLzYT_</password>
 		</server>
 	</servers>
 	<!-- mirrors | This is a list of mirrors to be used in downloading artifacts 
