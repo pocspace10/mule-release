@@ -47,8 +47,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<username>mt6-broncos-0405</username>
-						<password>Logger@123</password>
+						<username>pocspace10</username>
+						<password>Ntz6Px7T9L.dEv4</password>
 						<applicationName>mule-release</applicationName>
 						<environment>Sandbox</environment>
 						<objectStoreV2>true</objectStoreV2>
@@ -122,7 +122,7 @@
 		<snapshotRepository>
 			<id>jfrog-cloud</id>
 			<name>Jfrog Maven Local/</name>
-			<url>https://pocspace10.jfrog.io/artifactory/default-maven-local/</url>
+			<url>https://pocspace10.jfrog.io/artifactory/default-maven-local-snapshot/</url>
 			<layout>default</layout>
 		</snapshotRepository>
 	</distributionManagement>
