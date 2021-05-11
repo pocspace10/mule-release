@@ -18,7 +18,7 @@ http://www.mulesoft.org/schema/mule/os http://www.mulesoft.org/schema/mule/os/cu
 output application/json
 ---
 {
-	"UP":"Hello",
+	"UP":"Helo",
 	"UP":"elo"
 }]]></ee:set-payload>
 			</ee:message>
