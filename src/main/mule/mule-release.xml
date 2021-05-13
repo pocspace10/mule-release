@@ -19,7 +19,7 @@ output application/json
 ---
 {
 	"UP":"Helo",
-	"UP":"elo"
+	"UP":"Helo"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
